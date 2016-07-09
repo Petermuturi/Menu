@@ -1,0 +1,18 @@
+#home{
+	background-image: url(../assets/backgrounds/landing.jpg);
+	background-size: cover;
+	margin:-14px;
+	height: 650px; 
+	margin-top: -18px;
+}
+.log{
+	text-align: center;
+	padding-top: 80px;
+}
+.top{
+	font-family:sans-serif;
+	font-weight: 100;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
