@@ -16,3 +16,15 @@
 	text-align: center;
 	font-size: 40px;
 }
+ul{
+	padding-top: 12px;
+	margin-bottom: -14px;
+	cursor: pointer;
+}
+li{
+	list-style: none;
+}
+.burger{
+	color: white;
+	line-height: 0.5;
+}
