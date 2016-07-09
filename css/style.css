@@ -37,7 +37,7 @@ a{
 }
 /*Second container syles*/
 #container2{
-	margin-left: -9px;
+	margin-left: -8px;
 	margin-right: -9px;
 }
 .first{
@@ -87,7 +87,20 @@ height: 175px;
 	font-size: 25px;
 	padding-top: 50px;
 }
-
+.four{
+	margin-left: 75%;
+	margin-top: -175px;
+	position: absolute;
+width:25%;
+background-image: url(../assets/foodtop/dinner.jpg);
+height: 175px;
+}
+.four p {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-top: 50px;
+}
 
 
 
