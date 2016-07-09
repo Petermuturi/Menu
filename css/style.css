@@ -37,11 +37,11 @@ a{
 }
 /*Second container syles*/
 #container2{
-		margin-left: -9px;
+	margin-left: -9px;
 	margin-right: -9px;
 }
 .first{
-	width: 30%;
+	width:25%;
 }
 .wht{
 	background-color: white;
@@ -58,3 +58,41 @@ a{
 	text-align:center;
 	color:white;
 }
+.second{
+	margin-left: 25%;
+	margin-top: -175px;
+	position: absolute;
+width:25%;
+background-image: url(../assets/foodtop/breakfast.jpg);
+height: 175px;
+}
+.second p {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-top: 50px;
+}
+.third{
+	opacity: 0.5;
+	margin-left: 50%;
+	margin-top: -175px;
+	position: absolute;
+width:25%;
+background-image: url(../assets/foodtop/lunch.jpg);
+height: 175px;
+}
+.third p {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
