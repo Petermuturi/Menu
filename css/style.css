@@ -1,8 +1,20 @@
+*{
+	font-family:sans-serif;
+	font-weight: 100;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*First container styles*/
 #home{
 	background-image: url(../assets/backgrounds/landing.jpg);
 	background-size: cover;
-	margin:-14px;
 	height: 650px; 
+		margin-left: -9px;
+	margin-right: -9px;
 	margin-top: -18px;
 }
 .log{
@@ -10,21 +22,39 @@
 	padding-top: 80px;
 }
 .top{
-	font-family:sans-serif;
-	font-weight: 100;
 	color: white;
 	text-align: center;
 	font-size: 40px;
 }
-ul{
+.pot{
 	padding-top: 12px;
 	margin-bottom: -14px;
 	cursor: pointer;
 }
-li{
-	list-style: none;
-}
 .burger{
 	color: white;
 	line-height: 0.5;
+}
+/*Second container syles*/
+#container2{
+		margin-left: -9px;
+	margin-right: -9px;
+}
+.first{
+	width: 30%;
+}
+.wht{
+	background-color: white;
+	font-size: 25px;
+	text-align:center;
+		padding-top: 4px;
+	padding-bottom: 4px;
+}
+.ran{
+	padding-top: 4px;
+	padding-bottom: 4px;
+	background-color: #ff4500;
+	font-size: 25px;
+	text-align:center;
+	color:white;
 }
