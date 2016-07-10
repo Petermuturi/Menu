@@ -158,7 +158,16 @@ height: 175px;
 	color: white;
 	opacity: 0.7;
 }
-
+/*Fourth container styles*/
+#tabs{
+	background-image: url(../assets/backgrounds/foodsBg.jpg);
+	background-size: cover;
+	height: 600px;
+	opacity: 0.9;
+	margin-top: 50px;
+		margin-left: -9px;
+	margin-right: -9px;
+}
 
 
 
