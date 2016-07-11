@@ -168,6 +168,29 @@ height: 175px;
 		margin-left: -9px;
 	margin-right: -9px;
 }
+.ln{
+	 padding-top: 120px;
+	 margin-left: 10%;
+}
+.ln li{
+	margin:-5px;
+ display: inline;
+ font-size: 24px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 90px;
+padding-right: 90px;
+ background-color:ghostwhite;
+ border-left: 1px solid rgba(0,0,0,0.2);
+ border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.chosen, .ln li:hover{
+	background-color: white !important;
+	color: #ff4500;
+	border-bottom:1px solid white;
+	cursor: pointer;
+}
+
 
 
 
