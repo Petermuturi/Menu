@@ -170,7 +170,7 @@ height: 175px;
 }
 .ln{
 	 padding-top: 120px;
-	 margin-left: 10%;
+	text-align: center;
 }
 .ln li{
 	margin:-5px;
@@ -187,8 +187,33 @@ padding-right: 90px;
 .chosen, .ln li:hover{
 	background-color: white !important;
 	color: #ff4500;
-	border-bottom:1px solid white;
+	border-bottom:1px solid white !important;
 	cursor: pointer;
+}
+.pn{
+	text-align:center;
+}
+.pn li{
+	display: inline;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.pn li img{
+		background-color: white;
+		padding:28px;
+		margin-left: -24px;
+		margin-right: -24px;
+		margin-top: 5px;
+		padding-right: 34px;
+		padding-left: 34px;
+		padding-bottom: 40px;
+}
+.fd{
+	color: #ff4500;
+	font-size: 16px;
+	position: absolute;
+	margin-left: -220px;
+	margin-top: 18%;
 }
 
 
